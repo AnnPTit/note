@@ -119,7 +119,7 @@ Function trùng tên : function khai báo sau cùng sẽ ghi đè
             //code
         }
     -> Kiểm tra đúng hay sai, các phần tử trong mảng 
-    12. Some(): Trẻ về đúng nếu có một phần tử trong mảng thỏa mãn điều kiện
+    12. Some(): Trả về đúng nếu có một phần tử trong mảng thỏa mãn điều kiện
     13. Find() : Dùng để tìm kiếm
         var name = array.find(funtion(array,index)){
             return array.name ='RUBY'
@@ -154,3 +154,24 @@ Function trùng tên : function khai báo sau cùng sẽ ghi đè
     3. for/of - Lặp qua value của đối tượng
     4. while - Lặp khi điều kiện đúng 
     5. do/while - Lặp ít nhất một lần , sau đó lặp khi điều kiện đúng
+
+* Callback
+    1. Là hàm 
+    2. Truyền qua đối số 
+    3. Được gọi lại ( trong hàm nhận đối số)
+
+
+
+
+
+
+* HTML DOM 
+- Dom là gì ( Document Object Model ) là một quy chuẩn thiết kế, thể hiện tài liệu theo dang node tree
+- Dom có 3 thành phần 
+    1. Element
+    2. Atribute
+    3. Text
+* Document Object : Khi trang web được tải -> Tất cả mọi thứ được lưu vào document
+
+    1. Element : có thể lấy qua ID , class, tag, css selector , HTML selection
+ 
